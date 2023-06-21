@@ -18,3 +18,5 @@ thumb.alt = "Image " + i;
 }
 
 thumb.classList.add("thumb");
+
+imageThumbs.appendChild(thumb);
